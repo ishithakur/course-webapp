@@ -14,5 +14,5 @@ Use the application live:
 
 Ending Credits 
 - Made using Python and Streamlit
-- By Ishi Thakur (<a>https://www.linkedin.com/in/ishi-thakur/</a))
+- By Ishi Thakur (<a>https://www.linkedin.com/in/ishi-thakur/)
 
