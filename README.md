@@ -4,7 +4,7 @@ The model has been trained using a dataset of 3,000 courses. It helps you find c
 
 
 
-Use the application live:
+Use the application live: <a> https://course-recommendation-app-y5sei4c6d4.streamlit.app/
 
 ## Tech Used
 
